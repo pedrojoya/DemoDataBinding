@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoDataBinding</string>
+    <string name="main_lblName">Name</string>
+    <string name="main_btnGreet">Greet</string>
+    <string name="main_invalid_data">Invalid data</string>
+    <string name="main_greet_user">Hello %1$s</string>
+</resources>
